@@ -171,4 +171,5 @@ class CreateSimpleProduct implements DataPatchInterface
     {
         return [];
     }
+
 }
